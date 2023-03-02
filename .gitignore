@@ -1,4 +1,4 @@
-# Logs
+.Ds_Store
 logs
 *.log
 npm-debug.log*
